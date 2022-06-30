@@ -642,10 +642,10 @@ Xiaomi,Xiaomi Redmi 10 Prime (4+64GB),xiaomi-redmi-10-prime-4-plus-64gb,Mobile
 Xiaomi,Xiaomi Redmi 10 Prime (6+128GB),xiaomi-redmi-10-prime-6-plus-128gb,Mobile
 Xiaomi,Xiaomi Redmi 10 (4+128GB),xiaomi-redmi-10-4-plus-128gb,Mobile
 Xiaomi,Xiaomi Redmi Note 5 (6+128GB),xiaomi-redmi-note-5-6-plus-128gb,Mobile
-Apple,Apple iPad 10.2 (2019) (32GB) Wi-Fi + Mobile Network,apple-ipad-10-2-2019-32gb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad 10.2 (2019) (128GB) Wi-Fi + Mobile Network,apple-ipad-10-2-2019-128gb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad 10.2 (2019) (128GB) Wi-Fi,apple-ipad-10-2-2019-128gb-wi-fi,Tablet
-Apple,Apple iPad 10.2 (2019) (32GB) Wi-Fi,apple-ipad-10-2-2019-32gb-wi-fi,Tablet
+Apple,Apple iPad 10.2-inch (2019) (32GB) Wi-Fi + Mobile Network,apple-ipad-10-2-2019-32gb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad 10.2-inch (2019) (128GB) Wi-Fi + Mobile Network,apple-ipad-10-2-2019-128gb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad 10.2-inch (2019) (128GB) Wi-Fi,apple-ipad-10-2-2019-128gb-wi-fi,Tablet
+Apple,Apple iPad 10.2-inch (2019) (32GB) Wi-Fi,apple-ipad-10-2-2019-32gb-wi-fi,Tablet
 Apple,Apple iPad Air (2019) (64GB) Wi-Fi + Mobile Network,apple-ipad-air-2019-64gb-wi-fi-plus-mobile-network,Tablet
 Apple,Apple iPad mini (2019) (64GB) Wi-Fi + Mobile Network,apple-ipad-mini-2019-64gb-wi-fi-plus-mobile-network,Tablet
 Apple,Apple iPad mini (2019) (256GB) Wi-Fi + Mobile Network,apple-ipad-mini-2019-256gb-wi-fi-plus-mobile-network,Tablet
@@ -653,54 +653,54 @@ Apple,Apple iPad mini (2019) (256GB) Wi-Fi,apple-ipad-mini-2019-256gb-wi-fi,Tabl
 Apple,Apple iPad mini (2019) (64GB) Wi-Fi,apple-ipad-mini-2019-64gb-wi-fi,Tablet
 Apple,Apple iPad Air (2019) (256GB) Wi-Fi,apple-ipad-air-2019-256gb-wi-fi,Tablet
 Apple,Apple iPad Air (2019) (64GB) Wi-Fi,apple-ipad-air-2019-64gb-wi-fi,Tablet
-Apple,Apple iPad 10.2 (2020) (32GB) Wi-Fi + Cellular,apple-ipad-10-2-2020-32gb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad 10.2 (2020) (128GB) Wi-Fi + Cellular,apple-ipad-10-2-2020-128gb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad 10.2 (2020) (128GB) Wi-Fi,apple-ipad-10-2-2020-128gb-wi-fi,Tablet
-Apple,Apple iPad 10.2 (2020) (32GB) Wi-Fi,apple-ipad-10-2-2020-32gb-wi-fi,Tablet
+Apple,Apple iPad 10.2-inch (2020) (32GB) Wi-Fi + Cellular,apple-ipad-10-2-2020-32gb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad 10.2-inch (2020) (128GB) Wi-Fi + Cellular,apple-ipad-10-2-2020-128gb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad 10.2-inch (2020) (128GB) Wi-Fi,apple-ipad-10-2-2020-128gb-wi-fi,Tablet
+Apple,Apple iPad 10.2-inch (2020) (32GB) Wi-Fi,apple-ipad-10-2-2020-32gb-wi-fi,Tablet
 Apple,Apple iPad Air (2020) (256GB) Wi-Fi,apple-ipad-air-2020-256gb-wi-fi,Tablet
 Apple,Apple iPad Air (2020) (64GB) Wi-Fi,apple-ipad-air-2020-64gb-wi-fi,Tablet
-Apple,Apple iPad Pro 12.9 (2020) (128GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-128gb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad Pro 12.9 (2020) (1TB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-1tb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad Pro 12.9 (2020) (256GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-256gb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad Pro 12.9 (2020) (512GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-512gb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad Pro 11 (2020) (128GB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-128gb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad Pro 11 (2020) (1TB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-1tb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad Pro 11 (2020) (256GB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-256gb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad Pro 11 (2020) (512GB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-512gb-wi-fi-plus-mobile-network,Tablet
-Apple,Apple iPad Pro 11 (2020) (128GB) Wi-Fi,apple-ipad-pro-11-2020-128gb-wi-fi,Tablet
-Apple,Apple iPad Pro 11 (2020) (1TB) Wi-Fi,apple-ipad-pro-11-2020-1tb-wi-fi,Tablet
-Apple,Apple iPad Pro 11 (2020) (256GB) Wi-Fi,apple-ipad-pro-11-2020-256gb-wi-fi,Tablet
-Apple,Apple iPad Pro 11 (2020) (512GB) Wi-Fi,apple-ipad-pro-11-2020-512gb-wi-fi,Tablet
-Apple,Apple iPad Pro 11 (2018) (256GB) Wi-Fi,apple-ipad-pro-11-2018-256gb-wi-fi,Tablet
-Apple,Apple iPad Pro 11 (2018) (64GB) Wi-Fi,apple-ipad-pro-11-2018-64gb-wi-fi,Tablet
-Apple,Apple iPad Pro 12.9 (2020) (128GB) Wi-Fi,apple-ipad-pro-12-9-2020-128gb-wi-fi,Tablet
-Apple,Apple iPad Pro 12.9 (2020) (1TB) Wi-Fi,apple-ipad-pro-12-9-2020-1tb-wi-fi,Tablet
-Apple,Apple iPad Pro 12.9 (2020) (256GB) Wi-Fi,apple-ipad-pro-12-9-2020-256gb-wi-fi,Tablet
-Apple,Apple iPad Pro 12.9 (2020) (512GB) Wi-Fi,apple-ipad-pro-12-9-2020-512gb-wi-fi,Tablet
-Apple ,Apple  iPad Pro 11 (2021) (128GB) Wi-Fi,apple-ipad-pro-11-2021-128gb-wi-fi,Tablet
-Apple ,Apple  iPad Pro 11 (2021) (256GB) Wi-Fi,apple-ipad-pro-11-2021-256gb-wi-fi,Tablet
-Apple ,Apple  iPad Pro 11 (2021) (512GB) Wi-Fi,apple-ipad-pro-11-2021-512gb-wi-fi,Tablet
-Apple ,Apple  iPad Pro 11 (2021) (1TB) Wi-Fi,apple-ipad-pro-11-2021-1tb-wi-fi,Tablet
-Apple ,Apple  iPad Pro 11 (2021) (2TB) Wi-Fi,apple-ipad-pro-11-2021-2tb-wi-fi,Tablet
-Apple ,Apple  iPad Pro 12.9 (2021) (128GB) Wi-Fi,apple-ipad-pro-12-9-2021-128gb-wi-fi,Tablet
-Apple ,Apple  iPad Pro 12.9 (2021) (256GB) Wi-Fi,apple-ipad-pro-12-9-2021-256gb-wi-fi,Tablet
-Apple ,Apple  iPad Pro 12.9 (2021) (512GB) Wi-Fi,apple-ipad-pro-12-9-2021-512gb-wi-fi,Tablet
-Apple ,Apple  iPad Pro 12.9 (2021) (1TB) Wi-Fi,apple-ipad-pro-12-9-2021-1tb-wi-fi,Tablet
-Apple ,Apple  iPad Pro 12.9 (2021) (2TB) Wi-Fi,apple-ipad-pro-12-9-2021-2tb-wi-fi,Tablet
-Apple,Apple iPad Pro 12.9 (2021) (128GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-128gb-wi-fi-cellular,Tablet
-Apple,Apple iPad Pro 12.9 (2021) (256GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-256gb-wi-fi-cellular,Tablet
-Apple,Apple iPad Pro 12.9 (2021) (512GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-512gb-wi-fi-cellular,Tablet
-Apple,Apple iPad Pro 12.9 (2021) (1TB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-1tb-wi-fi-cellular,Tablet
-Apple,Apple iPad Pro 12.9 (2021) (2TB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-2tb-wi-fi-cellular,Tablet
-Apple,Apple iPad Pro 11 (2021) (128GB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-128gb-wi-fi-cellular,Tablet
-Apple,Apple iPad Pro 11 (2021) (256GB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-256gb-wi-fi-cellular,Tablet
-Apple,Apple iPad Pro 11 (2021) (512GB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-512gb-wi-fi-cellular,Tablet
-Apple,Apple iPad Pro 11 (2021) (1TB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-1tb-wi-fi-cellular,Tablet
-Apple,Apple iPad Pro 11 (2021) (2TB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-2tb-wi-fi-cellular,Tablet
-Apple,Apple iPad 10.2 (2021) (64GB) Wi-Fi,apple-ipad-10-2-2021-64gb-wi-fi,Tablet
-Apple,Apple iPad 10.2 (2021) (64GB) Wi-Fi + Cellular,apple-ipad-10-2-2021-64gb-wi-fi-cellular,Tablet
-Apple,Apple iPad 10.2 (2021) (256GB) Wi-Fi,apple-ipad-10-2-2021-256gb-wi-fi,Tablet
-Apple,Apple iPad 10.2 (2021) (256GB) Wi-Fi + Cellular,apple-ipad-10-2-2021-256gb-wi-fi-cellular,Tablet
+Apple,Apple iPad Pro 12.9-inch (2020) (128GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-128gb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad Pro 12.9-inch (2020) (1TB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-1tb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad Pro 12.9-inch (2020) (256GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-256gb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad Pro 12.9-inch (2020) (512GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2020-512gb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad Pro 11-inch (2020) (128GB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-128gb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad Pro 11-inch (2020) (1TB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-1tb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad Pro 11-inch (2020) (256GB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-256gb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad Pro 11-inch (2020) (512GB) Wi-Fi + Cellular,apple-ipad-pro-11-2020-512gb-wi-fi-plus-mobile-network,Tablet
+Apple,Apple iPad Pro 11-inch (2020) (128GB) Wi-Fi,apple-ipad-pro-11-2020-128gb-wi-fi,Tablet
+Apple,Apple iPad Pro 11-inch (2020) (1TB) Wi-Fi,apple-ipad-pro-11-2020-1tb-wi-fi,Tablet
+Apple,Apple iPad Pro 11-inch (2020) (256GB) Wi-Fi,apple-ipad-pro-11-2020-256gb-wi-fi,Tablet
+Apple,Apple iPad Pro 11-inch (2020) (512GB) Wi-Fi,apple-ipad-pro-11-2020-512gb-wi-fi,Tablet
+Apple,Apple iPad Pro 11-inch (2018) (256GB) Wi-Fi,apple-ipad-pro-11-2018-256gb-wi-fi,Tablet
+Apple,Apple iPad Pro 11-inch (2018) (64GB) Wi-Fi,apple-ipad-pro-11-2018-64gb-wi-fi,Tablet
+Apple,Apple iPad Pro 12.9-inch (2020) (128GB) Wi-Fi,apple-ipad-pro-12-9-2020-128gb-wi-fi,Tablet
+Apple,Apple iPad Pro 12.9-inch (2020) (1TB) Wi-Fi,apple-ipad-pro-12-9-2020-1tb-wi-fi,Tablet
+Apple,Apple iPad Pro 12.9-inch (2020) (256GB) Wi-Fi,apple-ipad-pro-12-9-2020-256gb-wi-fi,Tablet
+Apple,Apple iPad Pro 12.9-inch (2020) (512GB) Wi-Fi,apple-ipad-pro-12-9-2020-512gb-wi-fi,Tablet
+Apple ,Apple  iPad Pro 11-inch (2021) (128GB) Wi-Fi,apple-ipad-pro-11-2021-128gb-wi-fi,Tablet
+Apple ,Apple  iPad Pro 11-inch (2021) (256GB) Wi-Fi,apple-ipad-pro-11-2021-256gb-wi-fi,Tablet
+Apple ,Apple  iPad Pro 11-inch (2021) (512GB) Wi-Fi,apple-ipad-pro-11-2021-512gb-wi-fi,Tablet
+Apple ,Apple  iPad Pro 11-inch (2021) (1TB) Wi-Fi,apple-ipad-pro-11-2021-1tb-wi-fi,Tablet
+Apple ,Apple  iPad Pro 11-inch (2021) (2TB) Wi-Fi,apple-ipad-pro-11-2021-2tb-wi-fi,Tablet
+Apple ,Apple  iPad Pro 12.9-inch (2021) (128GB) Wi-Fi,apple-ipad-pro-12-9-2021-128gb-wi-fi,Tablet
+Apple ,Apple  iPad Pro 12.9-inch (2021) (256GB) Wi-Fi,apple-ipad-pro-12-9-2021-256gb-wi-fi,Tablet
+Apple ,Apple  iPad Pro 12.9-inch (2021) (512GB) Wi-Fi,apple-ipad-pro-12-9-2021-512gb-wi-fi,Tablet
+Apple ,Apple  iPad Pro 12.9-inch (2021) (1TB) Wi-Fi,apple-ipad-pro-12-9-2021-1tb-wi-fi,Tablet
+Apple ,Apple  iPad Pro 12.9-inch (2021) (2TB) Wi-Fi,apple-ipad-pro-12-9-2021-2tb-wi-fi,Tablet
+Apple,Apple iPad Pro 12.9-inch (2021) (128GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-128gb-wi-fi-cellular,Tablet
+Apple,Apple iPad Pro 12.9-inch (2021) (256GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-256gb-wi-fi-cellular,Tablet
+Apple,Apple iPad Pro 12.9-inch (2021) (512GB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-512gb-wi-fi-cellular,Tablet
+Apple,Apple iPad Pro 12.9-inch (2021) (1TB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-1tb-wi-fi-cellular,Tablet
+Apple,Apple iPad Pro 12.9-inch (2021) (2TB) Wi-Fi + Cellular,apple-ipad-pro-12-9-2021-2tb-wi-fi-cellular,Tablet
+Apple,Apple iPad Pro 11-inch (2021) (128GB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-128gb-wi-fi-cellular,Tablet
+Apple,Apple iPad Pro 11-inch (2021) (256GB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-256gb-wi-fi-cellular,Tablet
+Apple,Apple iPad Pro 11-inch (2021) (512GB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-512gb-wi-fi-cellular,Tablet
+Apple,Apple iPad Pro 11-inch (2021) (1TB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-1tb-wi-fi-cellular,Tablet
+Apple,Apple iPad Pro 11-inch (2021) (2TB) Wi-Fi + Cellular,apple-ipad-pro-11-2021-2tb-wi-fi-cellular,Tablet
+Apple,Apple iPad 10.2-inch (2021) (64GB) Wi-Fi,apple-ipad-10-2-2021-64gb-wi-fi,Tablet
+Apple,Apple iPad 10.2-inch (2021) (64GB) Wi-Fi + Cellular,apple-ipad-10-2-2021-64gb-wi-fi-cellular,Tablet
+Apple,Apple iPad 10.2-inch (2021) (256GB) Wi-Fi,apple-ipad-10-2-2021-256gb-wi-fi,Tablet
+Apple,Apple iPad 10.2-inch (2021) (256GB) Wi-Fi + Cellular,apple-ipad-10-2-2021-256gb-wi-fi-cellular,Tablet
 Apple,Apple iPad mini (5th gen) (2019) (64GB) Wi-Fi,apple-ipad-mini-5th-gen-2019-64gb-wi-fi,Tablet
 Apple,Apple iPad mini (5th gen) (2019) (64GB) Wi-Fi + Cellular,apple-ipad-mini-5th-gen-2019-64gb-wi-fi-cellular,Tablet
 Apple,Apple iPad mini (5th gen) (2019) (256GB) Wi-Fi,apple-ipad-mini-5th-gen-2019-256gb-wi-fi,Tablet
